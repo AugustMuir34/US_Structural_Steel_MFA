@@ -2,7 +2,7 @@
 
 This repository holds the code for:
 
-> **[August M. Organschi, Jay H. Arehart, Wil V. Srubar III]** ([Year]). *[WORKING: Feasibility Analysis of A U.S. Structural Steel Circular Economy through 2100]*. **[Journal]**. https://doi.org/[DOI]
+> **[August M. Organschi, Jay H. Arehart, Wil V. Srubar III]** ([Year]). *[WORKING: Feasibility Analysis of A U.S. Structural Steel Circular Economy through 2100]*. 
 
 The code projects demand for structural steel to 2100, models the in-use structural steel stock in the United States with a dynamic material flow analysis (MFA), and estimates the embodied CO₂ emissions and energy use under different scenarios for building lifetime, steel reuse, and green steel adoption.
 
